@@ -1,4 +1,4 @@
-# Cassette Tape CLI Player
+# Cassette_CLI Player
 
 A minimalist cassette-style music player built in Bash, inspired by the tape player mechanics from Five Nights at Candy's 3, and running entirely in the terminal.
 
